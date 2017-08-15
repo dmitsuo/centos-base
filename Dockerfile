@@ -17,3 +17,5 @@ WORKDIR /opt
 # Specify the user which should be used to execute all commands below
 USER caos
 
+CMD /bin/bash
+
